@@ -96,7 +96,26 @@ if(e.target.className==='delete'){
    
 
 
+/*
+var string = document.getElementById('string-input');
+var button = document.getElementById('button');
+var newString = '';
+;
+button.addEventListener('click', checkFunction);
+function checkFunction(){
+for(let i=string.value.length;i>=0;i--){
+    newString+= string.value.charAt(i);
+}
+if(string.value === newString){
+    console.log('Yes');
+    }else{
+        console.log('no')
+    }
+newString = '';
+}
 
+
+*/
 
 
 
